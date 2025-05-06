@@ -1,10 +1,8 @@
-/*10 pontos
-11 – Simule a compra de um carro com as seguintes condições:
-Exiba no prompt uma lista com 4 modelos de carros, cada um com um valor fixo.
-O usuário deve escolher um dos carros disponíveis e selecionar a forma de pagamento:
- À vista: aplicar um desconto de 15% sobre o valor do carro.
- Parcelado: aplicar um acréscimo de 13% sobre o valor do carro.
-Ao final, exiba o valor final da compra de acordo com a escolha do usuário.
+/* (5 pontos)
+1 - Crie um programa que peça um número ao usuário e armazene ele na variável x. Depois
+peça outro número e armazene na variável y.
+Mostre esses números. Em seguida, faça com que x passe a ter o valor de y, e que y passe a ter
+o valor de x e mostre os números.
 Nome Aluno: Heloísa Rozzette Marcovecchio
 */
 
